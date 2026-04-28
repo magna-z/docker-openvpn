@@ -9,7 +9,8 @@ DockerHub image: <https://hub.docker.com/r/magnaz/openvpn> ![](https://img.shiel
 
 ## Available tags:
 #### 2.6
-- **v2.6.16**, **2.6.16**, **latest** ![](https://img.shields.io/docker/image-size/magnaz/openvpn/v2.6.16)
+- **v2.6.20**, **2.6.20**, **latest** ![](https://img.shields.io/docker/image-size/magnaz/openvpn/v2.6.20)
+- **v2.6.16**, **2.6.16** ![](https://img.shields.io/docker/image-size/magnaz/openvpn/v2.6.16)
 - **v2.6.5**, **2.6.5** ![](https://img.shields.io/docker/image-size/magnaz/openvpn/v2.6.5)
 #### 2.5
 - **v2.5.8**, **2.5.8** ![](https://img.shields.io/docker/image-size/magnaz/openvpn/v2.5.8)
