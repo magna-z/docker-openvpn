@@ -8,8 +8,10 @@ GitHub repository: <https://github.com/magna-z/docker-openvpn> ![](https://img.s
 DockerHub image: <https://hub.docker.com/r/magnaz/openvpn> ![](https://img.shields.io/docker/stars/magnaz/openvpn) ![](https://img.shields.io/docker/pulls/magnaz/openvpn)
 
 ## Available tags:
+#### 2.7
+- **v2.7.5**, **2.7.5**, **latest** ![](https://img.shields.io/docker/image-size/magnaz/openvpn/v2.7.5)
 #### 2.6
-- **v2.6.20**, **2.6.20**, **latest** ![](https://img.shields.io/docker/image-size/magnaz/openvpn/v2.6.20)
+- **v2.6.20**, **2.6.20** ![](https://img.shields.io/docker/image-size/magnaz/openvpn/v2.6.20)
 - **v2.6.16**, **2.6.16** ![](https://img.shields.io/docker/image-size/magnaz/openvpn/v2.6.16)
 - **v2.6.5**, **2.6.5** ![](https://img.shields.io/docker/image-size/magnaz/openvpn/v2.6.5)
 #### 2.5
